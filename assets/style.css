@@ -3,8 +3,17 @@
     max-width: 1440px;
     font-family: "Montserrat";
 }
-#intro
-{
-    background-image: url("/assets/images/Bg.png");
+.introtitle{
+    h1{
+    font-family: "Montserrat";
+    color:white;
+    }
 }
-
+.bg{
+    max-width: 1440px;
+    height: 250px;
+}
+.introtexts{
+    font-family: "Montserrat";
+    color: aliceblue;
+}

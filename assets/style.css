@@ -3,3 +3,13 @@
     max-width: 1440px;
     font-family: "Montserrat";
 }
+
+.title{
+    h1{
+    font-family: "Montserrat";
+    size: 45px;
+    color: red;
+    background-color: gray;
+    font-weight: 700;
+}
+}
